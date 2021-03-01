@@ -1,0 +1,7 @@
+.players-card{
+    border-right: 2px solid lightgray;
+    margin-left: 20px;
+}
+.player-selected{
+    text-align: center;
+}

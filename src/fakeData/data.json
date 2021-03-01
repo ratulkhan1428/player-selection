@@ -1,0 +1,92 @@
+[ 
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/fDNW9Wb/imrul-kayes.png",
+      "name": "Imrul Kayes",
+      "salary": 100000
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/v4GC9Mt/lendl-simmons.png",
+      "name": "Lendl Simmons",
+      "salary": 90000
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/Pw7ht1j/soumya-sarkar.png",
+      "name": "Soumya Sarkar",
+      "salary": 110000
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/0j5D6Tt/sabbir-rahman.png",
+      "name": "Sabbir Rahman",
+      "salary": 80000
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/rysymMn/shakib-al-hasan.png",
+      "name": "Shakib Al Hasan",
+      "salary": 150000
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/C1KB3Fb/mushfiqur-rahim.png",
+      "name": "Mushfiqur Rahim",
+      "salary": 140000
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/CnM5ZgG/tamim-iqbal.png",
+      "name": "Tamim Iqbal",
+      "salary": 120000
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/52fNNN5/wahab-riaz.png",
+      "name": "Wahab Riaz",
+      "salary": 95000
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/L0rm9cB/mustafizur-rahman.png",
+      "name": "Mustafizur Rahman",
+      "salary": 110000
+    },
+    {
+      "id": 10,
+      "img": "https://i.ibb.co/xfsR0M9/andre-russell.png",
+      "name": "Andre Russell",
+      "salary": 120000
+    },
+    {
+      "id": 11,
+      "img": "https://i.ibb.co/KKgZ3Mn/taijul-islam.png",
+      "name": "Taijul Islam",
+      "salary": 75000
+    },
+    {
+      "id": 12,
+      "img": "https://i.ibb.co/2PH8K4R/mehedi-hasan.png",
+      "name": "Mehedy Hasan",
+      "salary": 90000
+    },
+    {
+      "id": 13,
+      "img": "https://i.ibb.co/bb5127r/chris-gayle.png",
+      "name": "Chris Gayle",
+      "salary": 150000
+    },
+    {
+      "id": 14,
+      "img": "https://i.ibb.co/3kQvFy9/mahmudullah-riyad.png",
+      "name": "Mahmudullah Riyad",
+      "salary": 130000
+    },
+    {
+      "id": 15,
+      "img": "https://i.ibb.co/F5Fznv1/mohammad-amir.png",
+      "name": "Mohammad Amir",
+      "salary": 100000
+    }
+  ]

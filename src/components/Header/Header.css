@@ -1,0 +1,8 @@
+.header img{
+    height: 300px;
+}
+.header{
+    text-align: center;
+    border-bottom: 2px solid lightslategray;
+    margin-bottom: 20px;
+}
